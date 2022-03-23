@@ -6,11 +6,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-/*Child child=new Child();
-       child.add(10);//integer
-       child.add(10.0f);//float
-       child.add(12.0);//double
-        */
+
 
         B b =new B();
         System.out.println(b.x);
